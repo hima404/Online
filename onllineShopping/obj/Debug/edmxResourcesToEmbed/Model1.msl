@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="onlineModelStoreContainer" CdmEntityContainer="onlineEntities1">
+    <EntitySetMapping Name="orders">
+      <EntityTypeMapping TypeName="onlineModel.order">
+        <MappingFragment StoreEntitySet="orders">
+          <ScalarProperty Name="orderID" ColumnName="orderID" />
+          <ScalarProperty Name="users_ID" ColumnName="users_ID" />
+          <ScalarProperty Name="products_ID" ColumnName="products_ID" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+          <ScalarProperty Name="productName" ColumnName="productName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="products">
+      <EntityTypeMapping TypeName="onlineModel.product">
+        <MappingFragment StoreEntitySet="products">
+          <ScalarProperty Name="cat" ColumnName="cat" />
+          <ScalarProperty Name="productId" ColumnName="productId" />
+          <ScalarProperty Name="Names" ColumnName="Names" />
+          <ScalarProperty Name="price" ColumnName="price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="onlineModel.user">
+        <MappingFragment StoreEntitySet="users">
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="Names" ColumnName="Names" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="passwords" ColumnName="passwords" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\onllineShopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|d:\\onllineshopping\\onllineshopping\\showproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\showproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|d:\\onllineshopping\\onllineshopping\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|d:\\onllineshopping\\onllineshopping\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|D:\\onllineShopping\\onllineshopping\\cart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\cart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|d:\\onllineshopping\\onllineshopping\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\onllineShopping\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|d:\\onllineshopping\\onllineshopping\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|d:\\onllineshopping\\onllineshopping\\cart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\cart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|d:\\onllineshopping\\onllineshopping\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|d:\\onllineshopping\\onllineshopping\\forgetpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\forgetpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|d:\\onllineshopping\\onllineshopping\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|d:\\onllineshopping\\onllineshopping\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|D:\\onllineShopping\\onllineshopping\\forgetpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\forgetpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|D:\\onllineShopping\\onllineshopping\\showproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\showproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|D:\\onllineShopping\\onllineshopping\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|d:\\onllineshopping\\onllineshopping\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80AA3BE0-3A97-4D31-934B-A19BF9879A23}|onllineShopping\\onllineShopping.csproj|solutionrelative:onllineshopping\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\onllineShopping\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\onllineShopping\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cart.xaml.cs",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\cart.xaml.cs",
+              "RelativeDocumentMoniker": "onllineShopping\\cart.xaml.cs",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\cart.xaml.cs",
+              "RelativeToolTip": "onllineShopping\\cart.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:21:18.9Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\App.xaml",
+              "RelativeDocumentMoniker": "onllineShopping\\App.xaml",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\App.xaml",
+              "RelativeToolTip": "onllineShopping\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T19:23:08.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\Model1.edmx",
+              "RelativeDocumentMoniker": "onllineShopping\\Model1.edmx",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "onllineShopping\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-16T17:31:20.347Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "D:\\onllineShopping\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-16T17:29:02.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Signup.xaml",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\Signup.xaml",
+              "RelativeDocumentMoniker": "onllineShopping\\Signup.xaml",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\Signup.xaml",
+              "RelativeToolTip": "onllineShopping\\Signup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T15:21:35.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowProducts.xaml.cs",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\ShowProducts.xaml.cs",
+              "RelativeDocumentMoniker": "onllineShopping\\ShowProducts.xaml.cs",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\ShowProducts.xaml.cs",
+              "RelativeToolTip": "onllineShopping\\ShowProducts.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:05:20.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "admin.xaml.cs",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\admin.xaml.cs",
+              "RelativeDocumentMoniker": "onllineShopping\\admin.xaml.cs",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\admin.xaml.cs",
+              "RelativeToolTip": "onllineShopping\\admin.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:50:43.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "admin.xaml",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\admin.xaml",
+              "RelativeDocumentMoniker": "onllineShopping\\admin.xaml",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\admin.xaml",
+              "RelativeToolTip": "onllineShopping\\admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T14:46:39.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "onllineShopping\\MainWindow.xaml",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\MainWindow.xaml",
+              "RelativeToolTip": "onllineShopping\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T13:40:18.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "forgetPass.xaml.cs",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\forgetPass.xaml.cs",
+              "RelativeDocumentMoniker": "onllineShopping\\forgetPass.xaml.cs",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\forgetPass.xaml.cs",
+              "RelativeToolTip": "onllineShopping\\forgetPass.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:39:05.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Signup.xaml.cs",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\Signup.xaml.cs",
+              "RelativeDocumentMoniker": "onllineShopping\\Signup.xaml.cs",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\Signup.xaml.cs",
+              "RelativeToolTip": "onllineShopping\\Signup.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:33:42.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "onllineShopping\\Login.xaml.cs",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\Login.xaml.cs",
+              "RelativeToolTip": "onllineShopping\\Login.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:25:12.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cart.xaml",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\cart.xaml",
+              "RelativeDocumentMoniker": "onllineShopping\\cart.xaml",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\cart.xaml",
+              "RelativeToolTip": "onllineShopping\\cart.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T12:49:50.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShowProducts.xaml",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\ShowProducts.xaml",
+              "RelativeDocumentMoniker": "onllineShopping\\ShowProducts.xaml",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\ShowProducts.xaml",
+              "RelativeToolTip": "onllineShopping\\ShowProducts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T12:34:46.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "forgetPass.xaml",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\forgetPass.xaml",
+              "RelativeDocumentMoniker": "onllineShopping\\forgetPass.xaml",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\forgetPass.xaml",
+              "RelativeToolTip": "onllineShopping\\forgetPass.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T12:33:55.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\onllineShopping\\onllineShopping\\Login.xaml",
+              "RelativeDocumentMoniker": "onllineShopping\\Login.xaml",
+              "ToolTip": "D:\\onllineShopping\\onllineShopping\\Login.xaml",
+              "RelativeToolTip": "onllineShopping\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T12:27:59.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
